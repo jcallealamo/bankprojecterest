@@ -1,0 +1,11 @@
+com\example\bankprojectexample\entity\PaymentsOrdersCoin.class
+com\example\bankprojectexample\jpa\OrdenesPagoJpa.class
+com\example\bankprojectexample\jpa\SucursalJpa.class
+com\example\bankprojectexample\App.class
+com\example\bankprojectexample\entity\Banco.class
+com\example\bankprojectexample\jpa\BancoJpa.class
+com\example\bankprojectexample\jpa\PaymentsOrdersCoinJpa.class
+com\example\bankprojectexample\controller\BankService.class
+com\example\bankprojectexample\entity\Sucursal.class
+com\example\bankprojectexample\entity\OrdenesPago.class
+com\example\bankprojectexample\utils\JpaRepository.class
